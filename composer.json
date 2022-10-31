@@ -1,5 +1,5 @@
 {
-    "name": "milsorm/spayd-php",
+    "name": "stanley89/spayd-php",
     "description": "PHP implementation of SmartPaymentDescriptor Generator.",
     "require-dev": {
         "nette/tester": "^2.0"
