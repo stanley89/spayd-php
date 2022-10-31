@@ -1,12 +1,12 @@
 {
-    "name": "stanley89/spayd-php",
+    "name": "milsorm/spayd-php",
     "description": "PHP implementation of SmartPaymentDescriptor Generator.",
     "require-dev": {
         "nette/tester": "^2.0"
     },
     "require": {
         "moneyphp/money": "^3.1",
-        "endroid/qr-code": "^2.5",
-        "ext-iconv": "^7.0"
+        "endroid/qr-code": ">= 2.5",
+        "ext-iconv": ">= 7.0"
     }
 }
